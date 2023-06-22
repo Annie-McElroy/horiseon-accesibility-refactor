@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Removed class . for all headers */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +16,17 @@ header {
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+/* Replaced div to nav on all headers */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +34,11 @@ header {
     font-size: 20px;
 }
 
-.header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -114,13 +116,12 @@ p {
 }
 
 /* Commented Out */
-.benefit-brand h3 {
+/* .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Commented out */
-/* .benefit-cost h3 {
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 } */
@@ -213,13 +214,14 @@ p {
     font-size: 36px;
 } */
 
-.footer {
+/* Remove class . for all footers */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
