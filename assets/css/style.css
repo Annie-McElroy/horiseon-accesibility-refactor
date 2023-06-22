@@ -222,6 +222,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* Replaced h2 with h4 to match html update */
+footer h4 {
     font-size: 20px;
 }
