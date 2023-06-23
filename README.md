@@ -2,7 +2,7 @@
 
 ## Description
 
-Horiseon website
+Horiseon webpage has been updated to now be more accessible to clients by adding in semantic HTML elements and structuring the headers and elements in a logical order, adding alternative text to all images, and gave the site a unique name.
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
