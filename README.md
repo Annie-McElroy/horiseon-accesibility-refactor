@@ -14,10 +14,8 @@ This refactor project is to update the Horiseon webpage to now be more accessibl
 ## Usage
 
 Access the website here: [link here]
+![Horiseon Social Solutions Services Webpage](assets/images/screenshot.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
