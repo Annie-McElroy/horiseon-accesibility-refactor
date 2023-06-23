@@ -2,28 +2,18 @@
 
 ## Description
 
-Horiseon webpage has been updated to now be more accessible to clients by adding in semantic HTML elements and structuring the headers and elements in a logical order, adding alternative text to all images, and gave the site a unique name.
+This refactor project is to update the Horiseon webpage to now be more accessible to clients by adding in semantic HTML elements, structuring the headers and elements in a logical order, adding alternative text to all images, and updating the title of the site to a unique name.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-    To update the website to be more accessible to client.
-    Refractor of this page to update to be more accessible to clients.
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-    Older code of site did not have semantic HTML elements.
-- What problem does it solve?
-    Adds semantic coding
-- What did you learn?
-
-## Installation
-
-N/A
+### Task Completed
+ - HTML elements updated to be semantic
+ - Redundant CSS classes were compressed and consolidated
+ - Alternative text was added to all images
+ - Headers and Elements were updated to be in sequential and logical order
+ - Updated with a unique title
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Access the website here: [link here]
 
     ```md
     ![alt text](assets/images/screenshot.png)
@@ -31,7 +21,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-N/A
+Horiseon starter code was given from University of Texas.
 
 ## License
 
