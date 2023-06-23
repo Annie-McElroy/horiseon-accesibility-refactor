@@ -19,7 +19,7 @@ Access the website here: [Horiseon Social Solution Services:](https://annie-mcel
 
 ## Credits
 
-N/A
+Starter code provided by University of Texas Coding Bootcamp.
 
 ## License
 
