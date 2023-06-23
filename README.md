@@ -13,7 +13,7 @@ This refactor project is to update the Horiseon webpage to now be more accessibl
 
 ## Usage
 
-Access the website here: [link here]
+Access the website here: [https://annie-mcelroy.github.io/horiseon-accessibility-refactor/#social-media-marketing]
 ![Horiseon Social Solutions Services Webpage](assets/images/screenshot.png)
 
 
