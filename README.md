@@ -19,7 +19,7 @@ Access the website here: [https://annie-mcelroy.github.io/horiseon-accessibility
 
 ## Credits
 
-Horiseon starter code was given from University of Texas.
+N/A
 
 ## License
 
